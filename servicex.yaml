@@ -7,3 +7,7 @@ api_endpoints:
     endpoint: https://xaod.servicex.af.uchicago.edu/
     token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MzI1NDI3ODgsIm5iZiI6MTYzMjU0Mjc4OCwianRpIjoiMmQ0Y2UwMTYtNGJlZC00NjcxLTk0YTgtYTdlNzNjMGIyOTk2IiwiaWRlbnRpdHkiOiJhNTFkYmQ3ZS1kMjc0LTExZTUtOWIxMS05YmUzNDdhMDljZTAiLCJ0eXBlIjoicmVmcmVzaCJ9.PgP7f2SDu4BRqaVwJnTY5P2XViXYW2WMnbY1nhR8hkY
     type: xaod
+  - name: uproot-int
+    endpoint: https://servicex-release-int-uproot.servicex.ssl-hep.org/
+    token: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MzMxMjI5MjIsIm5iZiI6MTYzMzEyMjkyMiwianRpIjoiY2M0ZmUzZDYtMTVlOC00NGYwLWFjNDMtZWM0MzMwNmVhMDhjIiwiaWRlbnRpdHkiOiJhNTFkYmQ3ZS1kMjc0LTExZTUtOWIxMS05YmUzNDdhMDljZTAiLCJ0eXBlIjoicmVmcmVzaCJ9.6sDz_7DTnbexN1eVn0XXQYSOa-jjuIjo-gzeeL4JaL0
+    type: uproot
